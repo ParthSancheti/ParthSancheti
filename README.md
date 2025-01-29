@@ -3,10 +3,10 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/51750770-f279-4c36-9936-db6fc0a0e32d" alt="Banner" height="450">
-</p><br><br>
+<br>
 <h3>Know About ME..!</h3>
-
-- 🔭 I’m currently working on [AndroidToolBox](https://github.com/Parth-Sancheti-5/AndroidToolBox)
+</p>
+<h4>- 🔭 I’m currently working on [AndroidToolBox](https://github.com/Parth-Sancheti-5/AndroidToolBox)
 
 - 🌱 I’m currently learning **Photography, HTML**
 
@@ -21,7 +21,7 @@
 - 📫 How to reach me **parthsancheti5@gmail.com**
 
 - ⚡ Fun fact: **GitHub was inspired by the combination of 'Git'—a version control system created by Linus Torvalds—and 'hub,' symbolizing a central meeting point for developers. It's more than just a code repository; it's a community where over 65 million developers shape the future of software, together!**
-
+</h4>
 <h3 align="center">Connect with me:</h3>
 <p align="Center">
 <a href="https://instagram.com/parth_sancheti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="parth_sancheti" height="50" width="50" /></a>
