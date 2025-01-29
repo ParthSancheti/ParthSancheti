@@ -2,8 +2,7 @@
 <h3 align="center">On A Mission To Innovate And Inspire</h3>
 
 <p align="center">
-<image src="https://github.com/user-attachments/assets/51750770-f279-4c36-9936-db6fc0a0e32d">
-
+  <img src="https://github.com/user-attachments/assets/51750770-f279-4c36-9936-db6fc0a0e32d" alt="Your Descriptive Text Here">
 </p>
 
 - 🔭 I’m currently working on [AndroidToolBox](https://github.com/Parth-Sancheti-5/AndroidToolBox)
