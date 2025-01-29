@@ -2,7 +2,8 @@
 <h3 align="center">On A Mission To Innovate And Inspire</h3>
 
 <p align="center">
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/65cf69d4-6ec4-409d-849a-0495127ff812)
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/51750770-f279-4c36-9936-db6fc0a0e32d)
+
 </p>
 
 - 🔭 I’m currently working on [AndroidToolBox](https://github.com/Parth-Sancheti-5/AndroidToolBox)
