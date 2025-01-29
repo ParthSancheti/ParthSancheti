@@ -3,7 +3,8 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/51750770-f279-4c36-9936-db6fc0a0e32d" alt="Banner" height="450">
-</p>
+</p><br><br>
+<h3>Know About ME..!</h3>
 
 - 🔭 I’m currently working on [AndroidToolBox](https://github.com/Parth-Sancheti-5/AndroidToolBox)
 
@@ -21,7 +22,7 @@
 
 - ⚡ Fun fact: **GitHub was inspired by the combination of 'Git'—a version control system created by Linus Torvalds—and 'hub,' symbolizing a central meeting point for developers. It's more than just a code repository; it's a community where over 65 million developers shape the future of software, together!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="Center">
 <a href="https://instagram.com/parth_sancheti" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="parth_sancheti" height="50" width="50" /></a>
 <a href="https://wa.me/+918275994253" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="parth_sancheti" height="50" width="50" /></a>
