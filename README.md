@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Sancheti</h1>
 <h3 align="center">Innovating in Android & Web Dev 💫</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=parthsancheti&label=Profile%20views&color=0e75b6&style=flat" alt="parthsancheti" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=parthsancheti" alt="parthsancheti" />
-  </a> 
-</p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/51750770-f279-4c36-9936-db6fc0a0e32d" alt="Banner" height="450"> <br>
 
 - 🔭 I’m currently working on [HeyMelody](https://github.com/ParthSancheti/HeyMelody)
 
@@ -27,18 +19,24 @@
 
 - ⚡ Fun fact: **I write fewer bugs when I’m low on coffee ☕**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/parth_sancheti" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parth_sancheti" height="30" width="40" />
-</a>
-<a href="https://instagram.com/parth_sancheti" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth_sancheti" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/parth_sancheti" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parth_sancheti" height="30" width="40" />
-</a>
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <!-- Instagram GIF -->
+  <a href="https://instagram.com/parth_sancheti" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="50" width="50" />
+  </a>
+
+  <!-- WhatsApp GIF -->
+  <a href="https://wa.me/+918275994253" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" height="50" width="50" />
+  </a>
+
+  <!-- YouTube SVG -->
+  <a href="https://www.youtube.com/c/parth_sancheti" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -83,4 +81,10 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsancheti" alt="parthsancheti" />
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=parthsancheti" alt="parthsancheti" />
+  </a> 
 </p>
