@@ -62,29 +62,27 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/parth_sancheti"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/parth_sancheti" />
+<h3 align="center">☕ Support Me</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/parth_sancheti">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
-<br><br>
+<br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthsancheti&show_icons=true&locale=en&layout=compact" alt="parthsancheti" />
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthsancheti&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthsancheti&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthsancheti&show_icons=true&locale=en" alt="parthsancheti" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsancheti" alt="GitHub Streak" height="180"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsancheti" alt="parthsancheti" />
-</p>
-
-<p align="left"> 
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=parthsancheti" alt="parthsancheti" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=parthsancheti&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  </a>
 </p>
