@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth Sancheti</h1>
+
+<center>
+  <img src="https://github.com/user-attachments/assets/ba2e2b44-d4ad-4baa-98f4-a947dc4caf71" 
+       alt="Parth Sancheti" 
+       style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+</center>
+
 <h3 align="center">Innovating in Android & Web Dev 💫</h3>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/51750770-f279-4c36-9936-db6fc0a0e32d" alt="Banner" height="450"> <br>
